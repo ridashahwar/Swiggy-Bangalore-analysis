@@ -15,3 +15,5 @@ would be explained in a class by the trainer
 
 Find key metrics and factors and show the meaningful relationships between attributes.
 Do your own research and come up with your findings.
+
+LINK to the DASHBOARD : https://public.tableau.com/app/profile/rida.shahwar/viz/SwiggyDataAnalysis_16842437778400/Dashboard1?publish=yes
